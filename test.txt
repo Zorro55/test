@@ -1,1 +1,4 @@
 $Id$
+$Author$
+$Rev$
+$Date$

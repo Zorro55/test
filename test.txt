@@ -1,5 +1,6 @@
-$Id$
-$Author$
-$Rev$
-$Date$
-dfd
+	 $Id$
+	 $Date$
+	 $File$
+	 $Author$
+	 $Revision$
+	 $Source$
